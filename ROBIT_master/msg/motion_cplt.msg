@@ -1,0 +1,1 @@
+bool motion_complete

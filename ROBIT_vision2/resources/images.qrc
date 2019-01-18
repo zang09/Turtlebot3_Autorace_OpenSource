@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/vision.png</file>
+        <file>images/ROBIT_logo.2.png</file>
+    </qresource>
+</RCC>

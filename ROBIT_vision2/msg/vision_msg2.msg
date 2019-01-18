@@ -1,0 +1,15 @@
+int32 r_diff_pixel
+int32 l_diff_pixel
+int32 r_angle
+int32 l_angle
+bool r_line_info
+bool l_line_info
+bool gatebar_detect
+int32 traffic
+int32 cross_pixel
+bool cross_detect
+int32 cross_info
+int32 parking_info
+bool parking_detect
+bool construct_detect
+int32 construct_info

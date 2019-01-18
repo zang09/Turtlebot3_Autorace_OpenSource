@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/turtlebot_logo.png</file>
+        <file>image/ROS_cat.png</file>
+    </qresource>
+</RCC>
