@@ -76,7 +76,7 @@ We use ROS usb_cam package. Install the kinetic usb_cam package.
   
   You can threshold the range of several color in turtlevision node UI and press the "save parameter" to save the range of color. If you press the "run" button, robot will start.
   
-Run ROBIT_vision2 Node
+Run ROBIT_master Node
 -
  To execute master node commands are:  
   
