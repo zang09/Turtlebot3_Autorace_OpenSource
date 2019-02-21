@@ -1,5 +1,9 @@
 # turtlebot3_autorace_ROBIT2_src
 
+Team ROBIT2
+-
+The Team ROBIT is a robot team of Kwangwoon University in Seoul, Republic of Korea. Team ROBIT has been established in November 2006. We have studied hardware and software of robot system. We also has participated in several domestic and international robot competitions.
+
 **ROBIT2** team TurtlebotAutoRace Source File
 
 1. Download ROS_QT_PLUGIN 4.5.1(for ROS KINETIC KAME)
