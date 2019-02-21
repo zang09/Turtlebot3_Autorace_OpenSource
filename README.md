@@ -94,5 +94,5 @@ Run ROBIT_vision2 Node
         
    Execute turtlebot3 tunnel node.
     
-        $ roslaunch hls_lfcd_lds_driver goal_pulisher
+        $ roslaunch hls_lfcd_lds_driver goal_publisher
         
