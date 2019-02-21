@@ -1,8 +1,18 @@
-# turtlebot3_autorace_ROBIT2_src
+# Team ROBIT2
 
-Team ROBIT2
+Introduction
 -
 The Team ROBIT is a robot team of Kwangwoon University in Seoul, Republic of Korea. Team ROBIT has been established in November 2006. We have studied hardware and software of robot system. We also has participated in several domestic and international robot competitions.
+
+Overview
+-
+This document describes the team ROBIT2's hardware and software for 2018 R-Biz challenge Turtlebot3 autonomous race.
+
+Hardware platform
+-
++ Turtlebot3 ROBOTIS
++ Usb camera: Logitech Webcam HD Pro C920
++ PC: Intel NUC7i5BNK (RAM 4GB)
 
 **ROBIT2** team TurtlebotAutoRace Source File
 
