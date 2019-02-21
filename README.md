@@ -23,10 +23,10 @@ This 'turtlebot3_core' package has been modified for the autonomous race. So you
 Setting the permission
 -
 You should set the permission of some devices. To set commands are:
------
-  $ sudo chmod 777 /dev/video0
-  $ sudo chmod 777 /dev/ttyUSB0
-  $ sudo chmod 777 /dev/ttyACM0
+
+  `$ sudo chmod 777 /dev/video0`
+  `$ sudo chmod 777 /dev/ttyUSB0`
+  `$ sudo chmod 777 /dev/ttyACM0`
 
 **ROBIT2** team TurtlebotAutoRace Source File
 
