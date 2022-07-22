@@ -6,7 +6,8 @@ The Team ROBIT is a robot team of Kwangwoon University in Seoul, Republic of Kor
 
 Overview
 -
-This document describes the team ROBIT2's hardware and software for 2018 R-Biz challenge Turtlebot3 autonomous race.
+This document describes the team ROBIT2's hardware and software for 2018 R-Biz challenge Turtlebot3 autonomous race.  
+Here is the [video](https://www.youtube.com/watch?v=2NJ0AukbBek) of the day of the competition.
 
 Hardware platform
 -
